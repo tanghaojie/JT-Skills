@@ -1,0 +1,3 @@
+interface:
+  display_name: "JT AI 味评审"
+  short_description: "按文本证据评判 AI 味与 JT 风格适配度，默认只打分不改写"

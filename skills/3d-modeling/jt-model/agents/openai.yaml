@@ -1,0 +1,3 @@
+interface:
+  display_name: "JT 三维建模"
+  short_description: "复用项目规范并检查建模工具，补齐范围、动画、渲染与交付要求后执行建模"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "股票复盘"
+  short_description: "从大盘、板块到个股复盘资金、赚钱效应与强弱，并核对交易执行"
+  default_prompt: "使用 $jt-stock-review 按大盘、板块、个股复盘指定交易日，列出证据、反证和下次观察条件。"

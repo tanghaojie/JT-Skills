@@ -1,0 +1,4 @@
+interface:
+  display_name: "股票盘中观察"
+  short_description: "从大盘、板块到个股分析盘前、竞价与盘中变化，形成时点观察清单"
+  default_prompt: "使用 $jt-stock-intraday 按大盘、板块、个股分析当前快照，注明数据时点、变化和后续观察条件。"
