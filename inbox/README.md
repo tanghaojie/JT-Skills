@@ -15,3 +15,4 @@
 ## 分类资料
 
 - [金融资料](finance/README.md)：保存金融原始材料、来源信息、核对记录与 Skill 拆分评估。
+- [Lemo-Opuscar 视频创作分析](video-editing/lemo-opuscar/analysis.md)：保存上游原文快照、中文改编映射与验证记录。

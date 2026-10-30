@@ -16,4 +16,6 @@
 
 ## 已收录 Skill
 
-暂无。新增时在此记录 Skill 名称、相对链接及一句话用途。
+| Skill | 用途 |
+| --- | --- |
+| [jt-video-creator](jt-video-creator/SKILL.md) | 用代码和真实资料制作中文风格短片，包含导演、配音配乐、字幕、验收与个人风格复用；改编自 Lemo-Opuscar |

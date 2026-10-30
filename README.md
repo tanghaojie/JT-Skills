@@ -43,6 +43,8 @@ JT-Skills/
 
 金融领域已收录：[jt-stock-review](skills/finance/jt-stock-review/SKILL.md)，按大盘、板块、个股完成盘后复盘；[jt-stock-intraday](skills/finance/jt-stock-intraday/SKILL.md)，按相同层级完成盘前准备、集合竞价和盘中时点分析。
 
+视频领域已收录：[jt-video-creator](skills/video-editing/jt-video-creator/SKILL.md)，将主题或真实资料制作成中文风格短片，支持 59 种上游风格检索、个人风格复用与可重建工程交付。
+
 ## 开始使用
 
 1. 把常用提示词放入 [inbox](inbox/README.md)，可以直接保存，也可以使用[收集模板](templates/prompt.md.template)。

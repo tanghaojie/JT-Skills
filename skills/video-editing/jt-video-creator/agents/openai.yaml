@@ -1,0 +1,4 @@
+interface:
+  display_name: "JT 中文视频创作"
+  short_description: "把主题与资料制作成有叙事、配音配乐和字幕的代码短片，支持复用个人风格"
+  default_prompt: "使用 $jt-video-creator，根据我的主题和现有素材选择风格，完成中文短片与可重建工程，并说明实际验收范围。"
